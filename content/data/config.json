@@ -131,7 +131,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Toastbeat. All rights reserved. This Jamstack site was created with <a href=\"https://toastbeat.com/. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy; Toastbeat. All rights reserved. This Jamstack site was created with <a href=\"https://toastbeat.com. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
     },
     "domain": "https://great-ttoast-e2fa0.netlify.app"
 }
