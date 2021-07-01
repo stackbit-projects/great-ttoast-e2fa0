@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Ttoast Home Templates
-  description: The preview of the Azimuth theme
+  description: The preview of the Toast home template theme
   extra:
     - name: 'og:type'
       value: website
