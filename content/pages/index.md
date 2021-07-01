@@ -113,7 +113,7 @@ seo:
       value: ttoast Home Templates
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: The preview of the Toast home template theme
       keyName: property
     - name: 'og:image'
       value: images/hero.png
