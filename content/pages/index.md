@@ -103,7 +103,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Ttoast Home Templates
+  title: ttoast Home Templates
   description: The preview of the Toast home template theme
   extra:
     - name: 'og:type'
